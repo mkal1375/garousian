@@ -2,43 +2,43 @@
 
 @font-face {
   font-family: Vazir;
-  src: url("../public/fonts/Vazir-Regular.woff2") format("woff2"),
-    url("../public/fonts/Vazir-Regular.woff") format("woff");
+  src: url("../public/fonts/Vazir-Regular-UI.woff") format("woff2"),
+    url("../public/fonts/Vazir-Regular-UI.woff2") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: Vazir;
-  src: url("../public/fonts/Vazir-Bold.woff2") format("woff2"),
-    url("../public/fonts/Vazir-Bold.woff") format("woff");
+  src: url("../public/fonts/Vazir-Bold-UI.woff2") format("woff2"),
+    url("../public/fonts/Vazir-Bold-UI.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: Vazir;
-  src: url("../public/fonts/Vazir-Black.woff2") format("woff2"),
-    url("../public/fonts/Vazir-Black.woff") format("woff");
+  src: url("../public/fonts/Vazir-Black-UI.woff2") format("woff2"),
+    url("../public/fonts/Vazir-Black-UI.woff") format("woff");
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
   font-family: Vazir;
-  src: url("../public/fonts/Vazir-Medium.woff2") format("woff2"),
-    url("../public/fonts/Vazir-Medium.woff") format("woff");
+  src: url("../public/fonts/Vazir-Medium-UI.woff2") format("woff2"),
+    url("../public/fonts/Vazir-Medium-UI.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: Vazir;
-  src: url("../public/fonts/Vazir-Light.woff2") format("woff2"),
-    url("../public/fonts/Vazir-Light.woff") format("woff");
+  src: url("../public/fonts/Vazir-Light-UI.woff2") format("woff2"),
+    url("../public/fonts/Vazir-Light-UI.woff") format("woff");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: Vazir;
-  src: url("../public/fonts/Vazir-Thin.woff2") format("woff2"),
-    url("../public/fonts/Vazir-Thin.woff") format("woff");
+  src: url("../public/fonts/Vazir-Thin-UI.woff2") format("woff2"),
+    url("../public/fonts/Vazir-Thin-UI.woff") format("woff");
   font-weight: 100;
   font-style: normal;
 }
